@@ -33,7 +33,10 @@ public class SampleJDBC {
 		con.close();
 		
 		System.out.println("Tester - 1 ");
+
+		System.out.println("Tester 2 ");
 		
+
 		
 	}
 }
