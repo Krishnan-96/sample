@@ -31,5 +31,8 @@ public class SampleJDBC {
 			System.out.println( string);
 		}
 		con.close();
+		
+		System.out.println("Tester 2 ");
+		
 	}
 }
